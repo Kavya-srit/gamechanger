@@ -1,3 +1,4 @@
 a=int(input('Enter a no. : '))
-  print(a*a*a)
-  print(' ')
+print(a*a*a)
+print(' ')
+print("drdr")
